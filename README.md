@@ -10,4 +10,4 @@ manejar nuestros productos.
 
 ## Preliminar View  
 
-![Preview](./public/imgs/application.png)  
+![Preview](./public/imgs/application.PNG)  
