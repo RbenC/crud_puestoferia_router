@@ -1,0 +1,10 @@
+.screenwelcome {
+	height: 100vh;
+
+	background-color: #cff5df;
+	color: black;
+}
+
+.sizetitle {
+	font-size: 2.5rem;
+}

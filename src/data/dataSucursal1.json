@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1",
+        "name":"Uva",
+        "price":1000,
+        "amount":20,
+        "measure": "kg",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt-rAbbBpqCPf5x4vXt4m1jb_3rCXKm6RbAhUcK5in0S1gqF2UdrRrZCaDnj7tOmyEyfM&usqp=CAU"
+    },
+    {
+        "id": "2",
+        "name":"Manzana Verde",
+        "price":700,
+        "amount":20,
+        "measure": "kg",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdvEO6UbmmxVC01nZYP0qGs2lxlQLc6hFr2vGls8ElMSjnnKgwr6xWJOSII_d0Os5sFN8&usqp=CAU"
+    },
+    {
+        "id": "3",
+        "name":"Manzana Roja",
+        "price":600,
+        "amount":50,
+        "measure": "kg",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1lFobSdFRoyHUUNpylPtyvWGm83NcPHRrbw&usqp=CAU"
+    },
+    {
+        "id": "4",
+        "name":"Naranja",
+        "price":500,
+        "amount":20,
+        "measure": "kg",
+		"image": "https://www.pngfind.com/pngs/b/190-1908192_naranja-image-de-naranja-png-transparent-png.png"
+    },
+    {
+        "id": "5",
+        "name":"Piña",
+        "price":1800,
+        "amount":12,
+        "measure": "Un",
+		"image": "https://png.pngtree.com/png-clipart/20191021/ourmid/pngtree-beautiful-watercolor-pineapple-clip-art-for-graphics-decoration-png-image_1766286.jpg"
+    },
+    {
+        "id": "6",
+        "name":"Banana",
+        "price": 850,
+        "amount":60,
+        "measure": "kg",
+		"image": "https://www.pikpng.com/pngl/m/65-654126_banana-nanica-png-clipart-picture-of-banana-transparent.png"
+    },
+    {
+        "id": "7",
+        "name":"Cebolla",
+        "price": 600,
+        "amount":60,
+        "measure": "kg",
+		"image": "https://img2.freepng.es/20180130/xae/kisspng-vegetable-onion-fruit-clip-art-onion-5a704afdd5a644.6641001815173086698751.jpg"
+    },
+    {
+        "id": "8",
+        "name":"Zanahoria",
+        "price": 500,
+        "amount":60,
+        "measure": "kg",
+		"image": "https://e7.pngegg.com/pngimages/534/55/png-clipart-banana-bread-juice-carrot-cake-vietnamese-cuisine-juice-food-carrot-juice.png"
+    },
+    {
+        "id": "9",
+        "name":"Brocoli",
+        "price": 1000,
+        "amount":30,
+        "measure": "Un",
+		"image": "https://w7.pngwing.com/pngs/814/642/png-transparent-broccoli-cauliflower-cabbage-rutabaga-vegetable-fresh-fruits-and-vegetables-broccoli-natural-foods-leaf-vegetable-food-thumbnail.png"
+    },
+    {
+        "id": "10",
+        "name":"Coliflor",
+        "price": 1200,
+        "amount":30,
+        "measure": "Un",
+		"image": "https://c0.klipartz.com/pngpicture/118/887/gratis-png-coliflor-coliflor-col-cocina-vegetariana-coles-de-bruselas-vegetales-coliflor-thumbnail.png"
+    },
+    {
+        "id": "11",
+        "name":"Papa",
+        "price": 500,
+        "amount":2,
+        "measure": "Kg",
+		"image": "https://c0.klipartz.com/pngpicture/569/862/gratis-png-papa-marron-grupo-de-papas.png"
+    },
+    {
+        "id": "12",
+        "name":"Frutilla",
+        "price": 1000,
+        "amount":0,
+        "measure": "Kg",
+		"image": "https://img2.freepng.es/20180323/obe/kisspng-ice-cream-musk-strawberry-aedmaasikas-wild-strawbe-strawberry-5ab4adb77c8d23.0161977515217903915102.jpg"
+    }
+]
